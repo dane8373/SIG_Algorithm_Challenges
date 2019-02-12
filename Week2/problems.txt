@@ -1,0 +1,5 @@
+Example: https://leetcode.com/problems/majority-element/
+Level 1: No link just do it lol
+Level 2: https://leetcode.com/problems/k-th-symbol-in-grammar/
+Level 3: https://www.hackerrank.com/challenges/ctci-merge-sort/problem
+Level 4: https://leetcode.com/problems/different-ways-to-add-parentheses/
