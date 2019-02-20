@@ -1,0 +1,16 @@
+Examples:
+https://leetcode.com/problems/verifying-an-alien-dictionary/
+https://leetcode.com/problems/find-duplicate-file-in-system/
+https://leetcode.com/problems/keyboard-row/
+https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
+https://leetcode.com/problems/shortest-completing-word/
+https://leetcode.com/problems/uncommon-words-from-two-sentences/
+
+Non Hashmap Example:
+https://leetcode.com/problems/k-closest-points-to-origin/
+
+Problems:
+Level 1: https://leetcode.com/problems/jewels-and-stones/
+Level 2: https://leetcode.com/problems/two-sum/
+Level 3: https://leetcode.com/problems/sort-characters-by-frequency/
+Level 4: https://leetcode.com/problems/longest-substring-without-repeating-characters/
