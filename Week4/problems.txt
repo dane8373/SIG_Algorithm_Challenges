@@ -3,10 +3,13 @@ https://leetcode.com/problems/invert-binary-tree/
 https://leetcode.com/problems/merge-two-binary-trees/
 
 problems:
+Level 1: https://leetcode.com/problems/maximum-depth-of-binary-tree/
+Level 2: https://leetcode.com/problems/trim-a-binary-search-tree/
+Level 3: https://leetcode.com/problems/n-ary-tree-level-order-traversal/
+Level 3b: https://leetcode.com/problems/validate-binary-search-tree/
+Level 4: https://leetcode.com/problems/distribute-coins-in-binary-tree/
+
+Extras not presented
 https://leetcode.com/problems/cousins-in-binary-tree/
-https://leetcode.com/problems/distribute-coins-in-binary-tree/
-https://leetcode.com/problems/n-ary-tree-level-order-traversal/
-https://leetcode.com/problems/trim-a-binary-search-tree/
-https://leetcode.com/problems/maximum-depth-of-binary-tree/
 https://leetcode.com/problems/unique-binary-search-trees/
-https://leetcode.com/problems/validate-binary-search-tree/
+https://leetcode.com/problems/cousins-in-binary-tree/
