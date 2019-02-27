@@ -1,0 +1,12 @@
+examples:
+https://leetcode.com/problems/invert-binary-tree/
+https://leetcode.com/problems/merge-two-binary-trees/
+
+problems:
+https://leetcode.com/problems/cousins-in-binary-tree/
+https://leetcode.com/problems/distribute-coins-in-binary-tree/
+https://leetcode.com/problems/n-ary-tree-level-order-traversal/
+https://leetcode.com/problems/trim-a-binary-search-tree/
+https://leetcode.com/problems/maximum-depth-of-binary-tree/
+https://leetcode.com/problems/unique-binary-search-trees/
+https://leetcode.com/problems/validate-binary-search-tree/
