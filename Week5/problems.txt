@@ -1,0 +1,7 @@
+Example:
+https://leetcode.com/problems/lemonade-change/
+
+
+Level 1: https://leetcode.com/problems/assign-cookies/
+Level 2: https://leetcode.com/problems/non-overlapping-intervals/
+Level 3: https://leetcode.com/problems/couples-holding-hands/
