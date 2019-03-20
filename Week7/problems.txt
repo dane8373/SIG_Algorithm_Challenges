@@ -1,0 +1,12 @@
+Example:
+https://leetcode.com/problems/rotting-oranges/
+
+https://leetcode.com/problems/keys-and-rooms/
+https://leetcode.com/problems/friend-circles/
+https://www.geeksforgeeks.org/minimum-cost-connect-cities/
+
+Problem 3 has a solution posted, so don't scroll too far
+If you want to attempt it without seeing a solution
+It also has slightly different input format then the problem I presented
+This is because this question was asked to me by someone interested in the club
+and the source I received wasn't the most presentable
